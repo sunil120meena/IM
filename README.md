@@ -1,1 +1,4 @@
 DCDIMB: Dynamic Community-based Diversified Influence Maximization using Bridge Nodes
+Main file - Bridge.ipynb, Download and run all the cells.
+Input dataset - Email_Eu_edge_list.txt
+Known communities - Email_Eu_comm.txt
