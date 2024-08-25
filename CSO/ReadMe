@@ -1,0 +1,3 @@
+This directory contain the python code of the paper - Cuckoo Search Optimization-Based Influence Maximization in Dynamic Social Networks
+The results can be extracted seed set wise or checkpoint/edge wise. To do so, correspoding files are given. 
+To execute the code, run all the cell. 
