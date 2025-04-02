@@ -1,1 +1,1 @@
-Download all the files. To execute the code dynamically, run "DynamicCheckpoint_Wise" file, and to execute the code seed set wise, run "SeedSetWise_Wise" file. 
+Download all the files. To execute the code dynamically, run "DynamicCheckpoint_Wise" file, and to execute the code seed set wise, run "SeedSetWise_Wise" file. After execution, result will be stored in the files as well.
