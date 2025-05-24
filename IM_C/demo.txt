@@ -1,1 +1,1 @@
-Code is availablbe in this directory.
+The code of the paper "Exploring Influence Maximization in Criminal Social Networks to Identify Key Individuals and Patterns" will be uploaded here soon. 
